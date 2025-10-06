@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FirstProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FirstProject_jar</output-path>
+    <root id="archive" name="FirstProject.jar">
+      <element id="module-output" name="FirstProject" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/microsoft/sqlserver/mssql-jdbc/9.2.0.jre11/mssql-jdbc-9.2.0.jre11.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
